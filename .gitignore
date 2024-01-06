@@ -1,0 +1,1 @@
+# Ignore compiled files\n*.pyc\n\n# Ignore build and temporary directories\n/build/\n/temp/

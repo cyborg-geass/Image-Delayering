@@ -1,0 +1,4 @@
+torch
+numpy
+opencv-python
+timm==0.6.7
